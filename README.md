@@ -1,5 +1,5 @@
 # Draw: Extended Widgets (Experimental) 
-This library was mainly created to extend the main widgets and add functionality to `draw arbitrary lines` on `ZeppOS 2.0+`, which can currently be achieved only with a polyline widget. But that widget has its limitations - high memory consumption, very limited viewpoint of about 150px, all lines have to be the same color. In contrast, the `draw.line()` can essentially draw multicolor lines in any direction of hypothetically any reasonable length. This makes for a great tool to base your GPS apps on devices that don't support Canvas.
+This library was mainly created to extend the main widgets and add functionality to `draw arbitrary lines` on `ZeppOS 2.0+`, which can currently be achieved only with a polyline widget. But that widget has its limitations - high memory consumption, very limited viewport of about 150px, all lines have to be the same color. In contrast, the `draw.line()` can essentially draw multicolor lines in any direction of hypothetically any reasonable length. This makes for a great tool to base your GPS apps on devices that don't support Canvas.
 
 ![](./assets/gps-map-example.gif)
 
