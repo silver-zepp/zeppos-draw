@@ -72,7 +72,7 @@ export class Draw extends DrawBase {
 
 		/** BUGFIX START
 		 * FILL_RECT bug, correction factor for lines left -> bot-right and right -> bot-left, + horizontal
-		 * that are also less < or > than 25 degrees */
+		 * that are also < or > than 25 degrees */
 		if (options.line_fix){
 			let correction_factor = 1;
 			let correction_angle = 25;

@@ -10,7 +10,7 @@ const { width: DEVICE_WIDTH, height: DEVICE_HEIGHT } = getDeviceInfo();
 import VisLog from '../include/libs/vis-log';
 const vis = new VisLog("index");
 
-import { Draw, multiplyHexColor } from '../include/libs/draw';
+import { Draw, multiplyHexColor } from '../../draw/draw';
 const draw = new Draw();
 
 const LOG_ENABLED = false;
