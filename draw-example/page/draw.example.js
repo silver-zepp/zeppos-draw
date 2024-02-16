@@ -15,7 +15,9 @@ const draw = new Draw();
 
 const LOG_ENABLED = false;
 
-/**
+/** 
+ * NOTE: This is a place for you to select one of the provided examples.
+ * 
  * 1 : Draw Lines From All Sides  : example_DrawLinesFromAllSides
  * 2 : Draw Envelope              : example_DrawEnvelope
  * 3 : Draw Wave                  : example_DrawWave
