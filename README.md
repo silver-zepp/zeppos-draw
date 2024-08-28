@@ -45,7 +45,7 @@ draw.line({x: 367, y: 367}, {x: 133, y: 133}, { color: COLOR_GREEN });   // \ bo
 <img src="./assets/example-draw-envelope.png" width="248px" /><br>
 
 ```js
-// draw the square
+// draw a square
 let point_a = { x: 140, y: 140 };
 let point_b = { x: 340, y: 140 };
 let point_c = { x: 340, y: 340 };
